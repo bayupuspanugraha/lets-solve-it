@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "peS4ffCVv9T9qAaFlV7DeibI/wkx6roe0kgrKSAGrsHIhPB3MVyWLRFhjk/bLcImefgLUvTLJU8MAJCqY/olOg==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\polyglot\\lets-solve-it\\what-is-the-total-amount\\csharp\\csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bayup\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
