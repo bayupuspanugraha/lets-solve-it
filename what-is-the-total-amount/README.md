@@ -36,10 +36,15 @@ The Analytic and Solution below are my way to solve the issue. So there's no rig
 From the section 1, we learnt:
 
 - Point 1: After tried to hit the API by using POSTMAN, I got several structure such as: Page, Per_Page, Total, Total_Pages and Collections of Data (see the result below).
+  <br>
   ![Postman Result for the URL API](PostMan-URLAPI.PNG)
+  <br>
   The output data will consists `10 datas` including `the number of page` that we are trying to access per hit API. `It means we have to loop all page in order to get all Total Amount`.
+
 - Point 2: From the point above we knew that data collections consists of several user id, so I tried to explore whether I can filter based on the User Id per hit API or not? then `YES`, we can by adding query string `?userId=[number]` (see the result below).
+  <br>
   ![Postman Result for the URL API](PostMan-URLAPI-2.PNG)
+  <br>
   Unfortunately, we could not filter `locationId` from query string which is fine.
 - Point 3: Since we have to compare range of the first subset IP, it means we have to create functionality like split the IP with delimeter `.` into array. So the expected result would be `ips = ['72', '200', '10', '158']` and we just access the first index data like `targetIP = ips[0]`.
 - Point 4: As you can see from point 1 or 2, that the amount value is in `string amount with currency format`. So, we need to create functionality to convert that amount into float before able to sum it with another amount. Example: `$1,2563.25` needs to remove `$` and maybe including with removing `,` and then convert it from string to float `12563.25`.
