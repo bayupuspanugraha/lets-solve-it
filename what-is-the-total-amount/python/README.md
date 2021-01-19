@@ -22,4 +22,4 @@
 
 # Sample Result
 
-![Result](./result.png)
+![Result](./Result.png)
