@@ -7,6 +7,7 @@ This project consists of several problems that I found interesting to solve. I s
 ## List of Problem
 
 - [what-is-the-total-amount](./what-is-the-total-amount)
+- [count-string-similarities-basedon-suffixes](./count-string-similarities-basedon-suffixes)
 
 # License
 

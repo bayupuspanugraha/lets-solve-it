@@ -5,7 +5,7 @@ var mainApp = async function() {
     console.log(`Normal way - Total Amount: ${result}`);
     
     result = await service.getTransactionsParalel(2, 8, 5, 50);
-     console.log(`Concurrent way - Total Amount: ${result}`);
+    console.log(`Concurrent way - Total Amount: ${result}`);
 }
 
 mainApp();

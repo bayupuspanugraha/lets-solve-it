@@ -1,0 +1,15 @@
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/bin/Debug/net5.0/csharp.deps.json
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/bin/Debug/net5.0/csharp.runtimeconfig.json
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/bin/Debug/net5.0/csharp.runtimeconfig.dev.json
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/bin/Debug/net5.0/csharp.dll
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/bin/Debug/net5.0/ref/csharp.dll
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/bin/Debug/net5.0/csharp.pdb
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/obj/Debug/net5.0/csharp.csprojAssemblyReference.cache
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/obj/Debug/net5.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/obj/Debug/net5.0/csharp.AssemblyInfoInputs.cache
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/obj/Debug/net5.0/csharp.AssemblyInfo.cs
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/obj/Debug/net5.0/csharp.csproj.CoreCompileInputs.cache
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/obj/Debug/net5.0/csharp.dll
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/obj/Debug/net5.0/ref/csharp.dll
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/obj/Debug/net5.0/csharp.pdb
+/Volumes/macssd/projects/polyglot/lets-solve-it/count-string-similarites-basedon-suffixes/csharp/obj/Debug/net5.0/csharp.genruntimeconfig.cache
